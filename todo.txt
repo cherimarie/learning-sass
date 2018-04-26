@@ -1,0 +1,14 @@
+Colors to use:
+"accent" = #3A612D
+"highlight" = #D2F0FA
+"brand" = #2D5461
+
+1. Text "Call to Action 1!", "Call to Action 2!", and "Call to Action 3!" should look like default paragraph text, no underlines, different colors, etc.
+2. Link with clickable text "link 2" should have "accent" color on page load, "highlight" color when visited, and gray text shadow when user hovers or clicks on it.
+3. Headline text "Headline 4" should be centered and bold.
+4. The first letter of paragraph that begins with "Lorem ipsum 1" should be twice as large as other paragraph text.
+5. Submit button with text "Sign Up for Email List" should have rounded corners, background of "accent" color, and text color of white.
+6. The article that starts with "Headline 3" should have a background of "highlight" color.
+
+
+Remember, if you add a class for styling purposes, it should be reusable. For example, a class of "highlight-text" might be used for all text you'd like to style to have the "highlight" font color.
